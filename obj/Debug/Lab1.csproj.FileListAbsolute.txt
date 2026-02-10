@@ -1,0 +1,8 @@
+D:\QualityControl\Lab1\bin\Debug\Lab1.exe.config
+D:\QualityControl\Lab1\bin\Debug\Lab1.exe
+D:\QualityControl\Lab1\bin\Debug\Lab1.pdb
+D:\QualityControl\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\QualityControl\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\QualityControl\Lab1\obj\Debug\Lab1.exe
+D:\QualityControl\Lab1\obj\Debug\Lab1.pdb
+D:\QualityControl\Lab1\obj\Debug\Lab1.exe.config

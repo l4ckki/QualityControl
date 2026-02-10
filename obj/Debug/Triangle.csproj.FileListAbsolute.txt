@@ -1,0 +1,10 @@
+D:\QualityControl\Lab1\obj\Debug\Triangle.csproj.AssemblyReference.cache
+D:\QualityControl\Lab1\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\QualityControl\Lab1\bin\Debug\triangle.exe.config
+D:\QualityControl\Lab1\bin\Debug\triangle.exe
+D:\QualityControl\Lab1\bin\Debug\triangle.pdb
+D:\QualityControl\Lab1\obj\Debug\triangle.exe
+D:\QualityControl\Lab1\obj\Debug\triangle.pdb
+D:\QualityControl\Lab1\bin\Unified\triangle.exe.config
+D:\QualityControl\Lab1\bin\Unified\triangle.exe
+D:\QualityControl\Lab1\bin\Unified\triangle.pdb

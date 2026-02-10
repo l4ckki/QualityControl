@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle.csproj", "{D40B2C4D-E505-495F-A271-3F08D6F75D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checker", "Checker\Checker.csproj", "{2C489009-7B7F-4C34-B7DC-A7C26CF96D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40B2C4D-E505-495F-A271-3F08D6F75D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40B2C4D-E505-495F-A271-3F08D6F75D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40B2C4D-E505-495F-A271-3F08D6F75D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40B2C4D-E505-495F-A271-3F08D6F75D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C489009-7B7F-4C34-B7DC-A7C26CF96D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C489009-7B7F-4C34-B7DC-A7C26CF96D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C489009-7B7F-4C34-B7DC-A7C26CF96D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C489009-7B7F-4C34-B7DC-A7C26CF96D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE44C72-FAAD-4450-9FCE-0B3BB4D5C820}
+	EndGlobalSection
+EndGlobal

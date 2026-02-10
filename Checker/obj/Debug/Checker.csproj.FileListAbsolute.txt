@@ -1,0 +1,7 @@
+D:\QualityControl\Lab1\bin\Unified\Checker.exe.config
+D:\QualityControl\Lab1\bin\Unified\Checker.exe
+D:\QualityControl\Lab1\bin\Unified\Checker.pdb
+D:\QualityControl\Lab1\Checker\obj\Debug\Checker.csproj.AssemblyReference.cache
+D:\QualityControl\Lab1\Checker\obj\Debug\Checker.csproj.CoreCompileInputs.cache
+D:\QualityControl\Lab1\Checker\obj\Debug\Checker.exe
+D:\QualityControl\Lab1\Checker\obj\Debug\Checker.pdb

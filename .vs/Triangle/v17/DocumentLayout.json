@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QualityControl\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C489009-7B7F-4C34-B7DC-A7C26CF96D54}|Checker\\Checker.csproj|d:\\qualitycontrol\\lab1\\checker\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C489009-7B7F-4C34-B7DC-A7C26CF96D54}|Checker\\Checker.csproj|solutionrelative:checker\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B2C4D-E505-495F-A271-3F08D6F75D8C}|Triangle.csproj|d:\\qualitycontrol\\lab1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40B2C4D-E505-495F-A271-3F08D6F75D8C}|Triangle.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checker.cs",
+              "DocumentMoniker": "D:\\QualityControl\\Lab1\\Checker\\Checker.cs",
+              "RelativeDocumentMoniker": "Checker\\Checker.cs",
+              "ToolTip": "D:\\QualityControl\\Lab1\\Checker\\Checker.cs",
+              "RelativeToolTip": "Checker\\Checker.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:40:33.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\QualityControl\\Lab1\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "D:\\QualityControl\\Lab1\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:10:22.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
